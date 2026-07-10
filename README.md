@@ -1,8 +1,10 @@
 # SentriScope
 
-**Cyber Risk Intelligence Platform** — public documentation
+**Cyber Risk Intelligence Platform**
 
 SentriScope helps security teams turn fragmented telemetry into **canonical understanding**, **explainable risk prioritization**, and **analyst-led investigation** — with multi-tenant governance and auditability.
+
+**Website:** [https://sentriscope.com.br](https://sentriscope.com.br)
 
 This repository is the public documentation set for SentriScope: product orientation, architecture concepts, security posture (public-safe), and cybersecurity knowledge articles.
 
