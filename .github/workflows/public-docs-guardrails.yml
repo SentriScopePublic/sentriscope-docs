@@ -1,0 +1,35 @@
+# Fail-closed guardrails for the public documentation repository.
+# This workflow runs ON the public repo only (SentriScopePublic/sentriscope-docs).
+
+name: public-docs-guardrails
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  path-and-type-guardrails:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Reject forbidden paths and file types
+        shell: bash
+        run: |
+          set -euo pipefail
+          forbidden='^(apps/|config/|docs/current/|docs/archive/|\.env|manage\.py|requirements)'
+          if git ls-files | grep -E "$forbidden"; then
+            echo "Forbidden private-project paths present" >&2
+            exit 1
+          fi
+          # Disallow source/secrets extensions in this docs-only repo.
+          if git ls-files | grep -Ei '\.(py|pyc|env|pem|key|sqlite3|sql)$'; then
+            echo "Forbidden file extension present" >&2
+            exit 1
+          fi
+          if git ls-files | grep -E ' 2\.|staging/'; then
+            echo "Staging or iCloud duplicate paths present" >&2
+            exit 1
+          fi
+          echo "Guardrails passed"

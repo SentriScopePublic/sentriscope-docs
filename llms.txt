@@ -1,0 +1,29 @@
+# SentriScope public documentation
+
+> Sanitized public docs for search engines and LLM crawlers.
+> Not application source code. Not internal engineering SSOT.
+
+## Primary pages
+
+- [Platform: What is SentriScope?](platform/WHAT_IS_SENTRISCOPE.md): Product positioning and scope.
+- [Platform: What SentriScope is not](platform/WHAT_SENTRISCOPE_IS_NOT.md): Explicit non-goals and boundaries.
+- [Platform overview](platform/PLATFORM_OVERVIEW.md): High-level platform capabilities.
+- [Product maturity](platform/PRODUCT_MATURITY.md): Honest maturity labels for capabilities.
+- [Index](INDEX.md): Catalog of public documentation entries.
+
+## Topics
+
+- platform/
+- architecture/
+- security/
+- knowledge/
+- intelligence/
+- investigations/
+- ai/
+- faq/
+- glossary/
+
+## Optional
+
+- [LICENSE](LICENSE): Documentation license (CC BY 4.0).
+- [README](README.md): Human-oriented repository overview.

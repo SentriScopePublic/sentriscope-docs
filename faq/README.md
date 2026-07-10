@@ -1,0 +1,99 @@
+# FAQ Collection
+
+**Version:** 1.10  
+**Status:** 70 FAQ entries (attachment model)  
+**Last Updated:** 2026-07-03  
+
+---
+
+## First FAQ collection (Stream E)
+
+| KID | Question | File |
+|-----|----------|------|
+| KID-FAQ-0001 | What is the difference between an alert and evidence? | [FAQ_ALERT_VS_EVIDENCE.md](FAQ_ALERT_VS_EVIDENCE.md) |
+| KID-FAQ-0002 | What is an attack path? | [FAQ_WHAT_IS_AN_ATTACK_PATH.md](FAQ_WHAT_IS_AN_ATTACK_PATH.md) |
+| KID-FAQ-0003 | What is operational intelligence? | [FAQ_WHAT_IS_OPERATIONAL_INTELLIGENCE.md](FAQ_WHAT_IS_OPERATIONAL_INTELLIGENCE.md) |
+| KID-FAQ-0004 | Can AI replace analysts? | [FAQ_CAN_AI_REPLACE_ANALYSTS.md](FAQ_CAN_AI_REPLACE_ANALYSTS.md) |
+| KID-FAQ-0005 | What is security context? | [FAQ_WHAT_IS_SECURITY_CONTEXT.md](FAQ_WHAT_IS_SECURITY_CONTEXT.md) |
+| KID-FAQ-0006 | Does security evidence expire? | [FAQ_DOES_EVIDENCE_EXPIRE.md](FAQ_DOES_EVIDENCE_EXPIRE.md) |
+| KID-FAQ-0007 | What is evidence provenance? | [FAQ_WHAT_IS_EVIDENCE_PROVENANCE.md](FAQ_WHAT_IS_EVIDENCE_PROVENANCE.md) |
+| KID-FAQ-0008 | How do you validate security evidence? | [FAQ_HOW_TO_VALIDATE_SECURITY_EVIDENCE.md](FAQ_HOW_TO_VALIDATE_SECURITY_EVIDENCE.md) |
+| KID-FAQ-0009 | What is evidence in investigation? | [FAQ_WHAT_IS_EVIDENCE_IN_INVESTIGATION.md](FAQ_WHAT_IS_EVIDENCE_IN_INVESTIGATION.md) |
+| KID-FAQ-0010 | How should analysts evaluate alerts? | [FAQ_HOW_SHOULD_ANALYSTS_EVALUATE_ALERTS.md](FAQ_HOW_SHOULD_ANALYSTS_EVALUATE_ALERTS.md) |
+| KID-FAQ-0011 | What is the investigation lifecycle? | [FAQ_WHAT_IS_INVESTIGATION_LIFECYCLE.md](FAQ_WHAT_IS_INVESTIGATION_LIFECYCLE.md) |
+| KID-FAQ-0012 | Investigation vs incident response? | [FAQ_INVESTIGATION_VS_INCIDENT_RESPONSE.md](FAQ_INVESTIGATION_VS_INCIDENT_RESPONSE.md) |
+| KID-FAQ-0013 | What is an investigation hypothesis? | [FAQ_WHAT_IS_INVESTIGATION_HYPOTHESIS.md](FAQ_WHAT_IS_INVESTIGATION_HYPOTHESIS.md) |
+| KID-FAQ-0014 | How do you document an investigation? | [FAQ_HOW_TO_DOCUMENT_INVESTIGATION.md](FAQ_HOW_TO_DOCUMENT_INVESTIGATION.md) |
+| KID-FAQ-0015 | When should an investigation be escalated? | [FAQ_WHEN_ESCALATE_INVESTIGATION.md](FAQ_WHEN_ESCALATE_INVESTIGATION.md) |
+| KID-FAQ-0016 | Why is CVSS not enough? | [FAQ_WHY_CVSS_IS_NOT_ENOUGH.md](FAQ_WHY_CVSS_IS_NOT_ENOUGH.md) |
+| KID-FAQ-0017 | How do I prioritize vulnerabilities? | [FAQ_HOW_TO_PRIORITIZE_VULNERABILITIES.md](FAQ_HOW_TO_PRIORITIZE_VULNERABILITIES.md) |
+| KID-FAQ-0018 | What is risk context? | [FAQ_WHAT_IS_RISK_CONTEXT.md](FAQ_WHAT_IS_RISK_CONTEXT.md) |
+| KID-FAQ-0019 | How do analysts explain risk to executives? | [FAQ_HOW_ANALYSTS_EXPLAIN_RISK.md](FAQ_HOW_ANALYSTS_EXPLAIN_RISK.md) |
+| KID-FAQ-0020 | What is risk intelligence? | [FAQ_WHAT_IS_RISK_INTELLIGENCE.md](FAQ_WHAT_IS_RISK_INTELLIGENCE.md) |
+| KID-FAQ-0021 | Are attack paths the same as vulnerabilities? | [FAQ_ATTACK_PATHS_VS_VULNERABILITIES.md](FAQ_ATTACK_PATHS_VS_VULNERABILITIES.md) |
+| KID-FAQ-0022 | Do attack paths prove an active attack? | [FAQ_DO_ATTACK_PATHS_PROVE_ATTACK.md](FAQ_DO_ATTACK_PATHS_PROVE_ATTACK.md) |
+| KID-FAQ-0023 | How do attack paths help prioritization? | [FAQ_HOW_ATTACK_PATHS_HELP_PRIORITIZATION.md](FAQ_HOW_ATTACK_PATHS_HELP_PRIORITIZATION.md) |
+| KID-FAQ-0024 | When should I ignore attack paths? | [FAQ_WHEN_IGNORE_ATTACK_PATHS.md](FAQ_WHEN_IGNORE_ATTACK_PATHS.md) |
+| KID-FAQ-0025 | Do attack paths replace risk analysis? | [FAQ_ATTACK_PATHS_VS_RISK_ANALYSIS.md](FAQ_ATTACK_PATHS_VS_RISK_ANALYSIS.md) |
+| KID-FAQ-0026 | What is threat intelligence? | [FAQ_WHAT_IS_THREAT_INTELLIGENCE.md](FAQ_WHAT_IS_THREAT_INTELLIGENCE.md) |
+| KID-FAQ-0027 | Does TI replace detection? | [FAQ_DOES_TI_REPLACE_DETECTION.md](FAQ_DOES_TI_REPLACE_DETECTION.md) |
+| KID-FAQ-0028 | How does TI help prioritization? | [FAQ_HOW_TI_HELPS_PRIORITIZATION.md](FAQ_HOW_TI_HELPS_PRIORITIZATION.md) |
+| KID-FAQ-0029 | When ignore threat intelligence? | [FAQ_WHEN_IGNORE_THREAT_INTELLIGENCE.md](FAQ_WHEN_IGNORE_THREAT_INTELLIGENCE.md) |
+| KID-FAQ-0030 | Does threat intelligence prove an attack? | [FAQ_DOES_TI_PROVE_ATTACK.md](FAQ_DOES_TI_PROVE_ATTACK.md) |
+| KID-FAQ-0031 | TI vs OI difference? | [FAQ_TI_VS_OI_DIFFERENCE.md](FAQ_TI_VS_OI_DIFFERENCE.md) |
+| KID-FAQ-0032 | OI same as SIEM data? | [FAQ_OI_VS_SIEM_DATA.md](FAQ_OI_VS_SIEM_DATA.md) |
+| KID-FAQ-0033 | OI in daily ops? | [FAQ_HOW_OI_HELPS_DAILY_OPS.md](FAQ_HOW_OI_HELPS_DAILY_OPS.md) |
+| KID-FAQ-0034 | OI replace risk analysis? | [FAQ_DOES_OI_REPLACE_RISK_ANALYSIS.md](FAQ_DOES_OI_REPLACE_RISK_ANALYSIS.md) |
+| KID-FAQ-0035 | When ignore OI rank? | [FAQ_WHEN_IGNORE_OPERATIONAL_INTELLIGENCE.md](FAQ_WHEN_IGNORE_OPERATIONAL_INTELLIGENCE.md) |
+| KID-FAQ-0036 | What is security intelligence? | [FAQ_WHAT_IS_SECURITY_INTELLIGENCE.md](FAQ_WHAT_IS_SECURITY_INTELLIGENCE.md) |
+| KID-FAQ-0037 | How do TI and OI work together? | [FAQ_HOW_TI_AND_OI_WORK_TOGETHER.md](FAQ_HOW_TI_AND_OI_WORK_TOGETHER.md) |
+| KID-FAQ-0038 | Can intelligence override evidence? | [FAQ_CAN_INTELLIGENCE_OVERRIDE_EVIDENCE.md](FAQ_CAN_INTELLIGENCE_OVERRIDE_EVIDENCE.md) |
+| KID-FAQ-0039 | Communicate intelligence to executives? | [FAQ_HOW_COMMUNICATE_INTELLIGENCE_TO_EXECUTIVES.md](FAQ_HOW_COMMUNICATE_INTELLIGENCE_TO_EXECUTIVES.md) |
+| KID-FAQ-0040 | SI as decision support? | [FAQ_WHAT_IS_SECURITY_INTELLIGENCE_DECISION_SUPPORT.md](FAQ_WHAT_IS_SECURITY_INTELLIGENCE_DECISION_SUPPORT.md) |
+| KID-FAQ-0041 | What is a security asset? | [FAQ_WHAT_IS_A_SECURITY_ASSET.md](FAQ_WHAT_IS_A_SECURITY_ASSET.md) |
+| KID-FAQ-0042 | Same vulnerability, different priority? | [FAQ_WHY_SAME_VULNERABILITY_DIFFERENT_PRIORITY.md](FAQ_WHY_SAME_VULNERABILITY_DIFFERENT_PRIORITY.md) |
+| KID-FAQ-0043 | What are unknown assets? | [FAQ_WHAT_ARE_UNKNOWN_ASSETS.md](FAQ_WHAT_ARE_UNKNOWN_ASSETS.md) |
+| KID-FAQ-0044 | Does asset count equal security? | [FAQ_DOES_ASSET_COUNT_EQUAL_SECURITY.md](FAQ_DOES_ASSET_COUNT_EQUAL_SECURITY.md) |
+| KID-FAQ-0045 | What makes assets decision support? | [FAQ_WHAT_MAKES_ASSETS_DECISION_SUPPORT.md](FAQ_WHAT_MAKES_ASSETS_DECISION_SUPPORT.md) |
+| KID-FAQ-0046 | What is a security identity? | [FAQ_WHAT_IS_A_SECURITY_IDENTITY.md](FAQ_WHAT_IS_A_SECURITY_IDENTITY.md) |
+| KID-FAQ-0047 | Identity vs account difference? | [FAQ_IDENTITY_VS_ACCOUNT_DIFFERENCE.md](FAQ_IDENTITY_VS_ACCOUNT_DIFFERENCE.md) |
+| KID-FAQ-0048 | Why identity changes investigation? | [FAQ_WHY_IDENTITY_CHANGES_INVESTIGATION.md](FAQ_WHY_IDENTITY_CHANGES_INVESTIGATION.md) |
+| KID-FAQ-0049 | What are unknown identities? | [FAQ_WHAT_ARE_UNKNOWN_IDENTITIES.md](FAQ_WHAT_ARE_UNKNOWN_IDENTITIES.md) |
+| KID-FAQ-0050 | Why identities central to security? | [FAQ_WHY_IDENTITIES_CENTRAL_TO_SECURITY.md](FAQ_WHY_IDENTITIES_CENTRAL_TO_SECURITY.md) |
+| KID-FAQ-0051 | What is a security application? | [FAQ_WHAT_IS_A_SECURITY_APPLICATION.md](FAQ_WHAT_IS_A_SECURITY_APPLICATION.md) |
+| KID-FAQ-0052 | Application vs service difference? | [FAQ_APPLICATION_VS_SERVICE.md](FAQ_APPLICATION_VS_SERVICE.md) |
+| KID-FAQ-0053 | Why business function matters? | [FAQ_WHY_BUSINESS_FUNCTION_MATTERS.md](FAQ_WHY_BUSINESS_FUNCTION_MATTERS.md) |
+| KID-FAQ-0054 | What are unknown applications? | [FAQ_WHAT_ARE_UNKNOWN_APPLICATIONS.md](FAQ_WHAT_ARE_UNKNOWN_APPLICATIONS.md) |
+| KID-FAQ-0055 | Applications as decision support? | [FAQ_APPLICATIONS_AS_DECISION_SUPPORT.md](FAQ_APPLICATIONS_AS_DECISION_SUPPORT.md) |
+| KID-FAQ-0056 | What is exposure? | [FAQ_WHAT_IS_EXPOSURE.md](FAQ_WHAT_IS_EXPOSURE.md) |
+| KID-FAQ-0057 | Is every vulnerability an exposure? | [FAQ_IS_EVERY_VULNERABILITY_AN_EXPOSURE.md](FAQ_IS_EVERY_VULNERABILITY_AN_EXPOSURE.md) |
+| KID-FAQ-0058 | How should exposure be prioritized? | [FAQ_HOW_SHOULD_EXPOSURE_BE_PRIORITIZED.md](FAQ_HOW_SHOULD_EXPOSURE_BE_PRIORITIZED.md) |
+| KID-FAQ-0059 | Why does exposure change over time? | [FAQ_WHY_DOES_EXPOSURE_CHANGE_OVER_TIME.md](FAQ_WHY_DOES_EXPOSURE_CHANGE_OVER_TIME.md) |
+| KID-FAQ-0060 | Why does exposure context matter? | [FAQ_WHY_DOES_EXPOSURE_CONTEXT_MATTER.md](FAQ_WHY_DOES_EXPOSURE_CONTEXT_MATTER.md) |
+| KID-FAQ-0061 | What is correlation? | [FAQ_WHAT_IS_CORRELATION.md](FAQ_WHAT_IS_CORRELATION.md) |
+| KID-FAQ-0062 | What is the difference between correlation and aggregation? | [FAQ_CORRELATION_VS_AGGREGATION.md](FAQ_CORRELATION_VS_AGGREGATION.md) |
+| KID-FAQ-0063 | What is canonical understanding? | [FAQ_WHAT_IS_CANONICAL_UNDERSTANDING.md](FAQ_WHAT_IS_CANONICAL_UNDERSTANDING.md) |
+| KID-FAQ-0064 | Why does correlation matter for security decisions? | [FAQ_WHY_CORRELATION_MATTERS_FOR_DECISIONS.md](FAQ_WHY_CORRELATION_MATTERS_FOR_DECISIONS.md) |
+| KID-FAQ-0065 | When is correlation not enough? | [FAQ_WHEN_CORRELATION_IS_NOT_ENOUGH.md](FAQ_WHEN_CORRELATION_IS_NOT_ENOUGH.md) |
+| KID-FAQ-0066 | What is Security Operations? | [FAQ_WHAT_IS_SECURITY_OPERATIONS.md](FAQ_WHAT_IS_SECURITY_OPERATIONS.md) |
+| KID-FAQ-0067 | Why is Security Operations continuous? | [FAQ_WHY_IS_SECURITY_OPERATIONS_CONTINUOUS.md](FAQ_WHY_IS_SECURITY_OPERATIONS_CONTINUOUS.md) |
+| KID-FAQ-0068 | How do investigations support operations? | [FAQ_HOW_DO_INVESTIGATIONS_SUPPORT_OPERATIONS.md](FAQ_HOW_DO_INVESTIGATIONS_SUPPORT_OPERATIONS.md) |
+| KID-FAQ-0069 | Why does prioritization change? | [FAQ_WHY_DOES_PRIORITIZATION_CHANGE.md](FAQ_WHY_DOES_PRIORITIZATION_CHANGE.md) |
+| KID-FAQ-0070 | What is operational feedback? | [FAQ_WHAT_IS_OPERATIONAL_FEEDBACK.md](FAQ_WHAT_IS_OPERATIONAL_FEEDBACK.md) |
+
+All FAQs use `attached_to` parent KIDs per [FAQ_ATTACHMENT_MODEL.md](../editorial/FAQ_ATTACHMENT_MODEL.md).
+
+Next allocation: `KID-FAQ-0071`.
+
+## Revision History
+
+| Version | Date | Summary |
+|---------|------|---------|
+| 1.10 | 2026-07-03 | SER-013 Security Operations FAQs (70 total) |
+| 1.9 | 2026-07-03 | SER-012 Correlation & Canonical Understanding FAQs (65 total) |
+| 1.8 | 2026-07-03 | SER-011 Exposure Management FAQs (60 total) |
+| 1.7 | 2026-07-03 | SER-010 Applications & Services FAQs (55 total) |
+| 1.6 | 2026-07-03 | SER-009 Identity FAQs (50 total) |
+| 1.5 | 2026-07-03 | SER-008 Assets FAQs (45 total) |
+| 1.4 | 2026-07-03 | SER-006 and SER-007 FAQs (40 total) |
+| 1.3 | 2026-07-03 | SER-005 threat intelligence FAQs |
